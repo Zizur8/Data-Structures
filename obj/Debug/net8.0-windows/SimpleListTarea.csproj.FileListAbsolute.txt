@@ -1,0 +1,16 @@
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\bin\Debug\net8.0-windows\SimpleListTarea.exe
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\bin\Debug\net8.0-windows\SimpleListTarea.deps.json
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\bin\Debug\net8.0-windows\SimpleListTarea.runtimeconfig.json
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\bin\Debug\net8.0-windows\SimpleListTarea.dll
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\bin\Debug\net8.0-windows\SimpleListTarea.pdb
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.Form1.resources
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.AssemblyInfo.cs
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.dll
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\refint\SimpleListTarea.dll
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.pdb
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\SimpleListTarea.genruntimeconfig.cache
+C:\Users\cesar\source\repos\EDD-REPOS\EDD-SimpleListTarea\SimpleListTarea\obj\Debug\net8.0-windows\ref\SimpleListTarea.dll
